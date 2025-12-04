@@ -26,8 +26,8 @@ fitur utama dari Website ini adalah fitur untuk mengupload dan menyimpan file ga
 
 ## Tampilan Web
 
-![image]()
+![image](https://github.com/notdoppi/TUGAS-12-PWEB-A/blob/c4d4c646aedb4ed10d7746c680a1ead1cd73b61c/tugas%2012/index.jpg)
 
-![image]()
+![image](https://github.com/notdoppi/TUGAS-12-PWEB-A/blob/c4d4c646aedb4ed10d7746c680a1ead1cd73b61c/tugas%2012/tambah.jpg)
 
-![image]()
+![image](https://github.com/notdoppi/TUGAS-12-PWEB-A/blob/c4d4c646aedb4ed10d7746c680a1ead1cd73b61c/tugas%2012/ubah.jpg)
